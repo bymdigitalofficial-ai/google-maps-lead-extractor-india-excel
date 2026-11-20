@@ -6,15 +6,16 @@
 [![Meta WhatsApp Partner](https://img.shields.io/badge/WhatsApp%20API-Verified%20Meta%20Cloud-ff0080.svg)](https://bymdigital.com/whatsapp-automation-navi-mumbai)
 [![Support Phone](https://img.shields.io/badge/Direct%20Call-%2B91--9702998398-success.svg)](tel:+919702998398)
 
-GM Extractor is an enterprise-grade cloud software solution designed for Indian B2B sales teams, marketing agencies, manufacturers, real estate consultants, and trading houses. Extract unlimited local business data from Google Maps with zero account bans, no API key required, and 100% verified mobile phone numbers formatted for instant WhatsApp broadcasting and CRM import.
+GM Extractor is a high-speed Windows desktop software application designed for Indian B2B sales teams, marketing agencies, manufacturers, real estate consultants, and trading houses. Extract unlimited local business data from Google Maps with zero account bans, no API key required, and 100% verified mobile phone numbers formatted for instant WhatsApp broadcasting and CRM import.
 
-Official Live Software: [https://bymdigital.com/gm-extractor/](https://bymdigital.com/gm-extractor/)  
-Annual Unlimited License: **₹999 / Year** (Full INR Pricing, Instant License Delivery)
+Official Software Download: [https://bymdigital.com/gm-extractor/](https://bymdigital.com/gm-extractor/)  
+Annual Unlimited License: **₹999 / Year** (Windows 10 & 11 Compatible • Single PC License Key)
 
 ---
 
 ## 🚀 Key Features
 
+* **Native Windows Desktop Software:** Runs directly on your Windows 10 or Windows 11 PC/laptop. All extracted leads and contact lists save locally to your hard drive with 100% data privacy.
 * **Instant Excel & CSV Export:** Download structured columns: `Business Name`, `Direct Mobile Number`, `WhatsApp Verification Status`, `Google Star Rating`, `Review Count`, `Full Office Address`, `Category`, `Website`, and `Place ID`.
 * **Zero Number Ban Risk:** Operates with native headless search protocols that mimic real human browsing behavior.
 * **Hyper-Local Mumbai & Navi Mumbai Corridor Targeting:**
@@ -44,13 +45,14 @@ Annual Unlimited License: **₹999 / Year** (Full INR Pricing, Instant License D
 
 ## 💻 Quick Start & Setup
 
-GM Extractor runs directly in your browser with zero installation required:
+GM Extractor runs locally on your Windows PC:
 
-1. Visit [https://bymdigital.com/gm-extractor/](https://bymdigital.com/gm-extractor/)
-2. Enter your target keyword (e.g., *"Real Estate Brokers Kharghar"* or *"Wholesale Spices Vashi APMC"*).
-3. Select your location and search radius.
-4. Click **Start Extraction** — watch live leads populate with verified contact numbers.
-5. Click **Export to Excel (.xlsx)**.
+1. Download GM Extractor installer from [https://bymdigital.com/gm-extractor/](https://bymdigital.com/gm-extractor/)
+2. Run the Windows setup on Windows 10 or Windows 11.
+3. Enter your 1-Year License Activation Key.
+4. Enter your target keyword (e.g., *"Real Estate Brokers Kharghar"* or *"Wholesale Spices Vashi APMC"*).
+5. Click **START** — watch live verified leads populate with complete phone numbers.
+6. Click **Export to Excel (.xlsx)** to save the dataset to your computer.
 
 ---
 
